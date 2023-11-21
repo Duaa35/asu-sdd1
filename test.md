@@ -19,15 +19,16 @@ _Italic Text_
 ### Inline Link:  
 [Visit ASU](https://www.asu.edu.jo/ar/Pages/default.aspx)
 ### Image inclusion:  
-![ASU Logo](C:\Users\lab1b17\Desktop\aaaaa.png)
+![ASU Logo](https://github.com/Duaa35/asu-sdd1/blob/main/asu%20logo.png)
 
-# Lode block:
+# Code  blocks:
+### Inline Code:
 print in flutter `print(`Hello`);`
 
-# Inline Code:
-Scanner s = new 
-   Scanner(System.in)
-   int number = s.redInt();
+### code block:
+    Scanner s = new 
+    Scanner(System.in)
+    int number = s.redInt();
 
 # Table:
 |first|Second|
