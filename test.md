@@ -20,3 +20,21 @@ _Italic Text_
 [Visit ASU](https://www.asu.edu.jo/ar/Pages/default.aspx)
 ### Image inclusion:  
 ![ASU Logo](C:\Users\lab1b17\Desktop\aaaaa.png)
+
+# Lode block:
+print in flutter `print(`Hello`);`
+
+# Inline Code:
+Scanner s = new 
+   Scanner(System.in)
+   int number = s.redInt();
+
+# Table:
+|first|Second|
+|------|------|
+|A   | b  |
+
+# Tasks List :
+- [x] Task 1
+- [ ] Task 2
+
